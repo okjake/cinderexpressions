@@ -1,6 +1,6 @@
 #cinderExpressions
 
-A facial expression classifier, based on [FaceOSC](https://raw.github.com/kylemcdonald/ofxFaceTracker/master/readme.md), [Cinder](http://libcinder.org), and (Syphon)[http://syphon.v002.info].
+A facial expression classifier, based on Kyle McDonald and Jason Saragih's [FaceOSC](https://raw.github.com/kylemcdonald/ofxFaceTracker/master/readme.md), [Cinder](http://libcinder.org), and [Syphon](http://syphon.v002.info).
 
 Pull a face, name it, save it. Then recognise it.
 
